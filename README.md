@@ -6,7 +6,7 @@ The **Gesture Sign Language Translator** uses Google Teachable Machine to recogn
 ## 1. Data Collection and Preparation
 
 ### Data Collection Process
-While building our **Basic Sign Language Translator**, we captured pictures of hand-related gestures depicting everyday phrases in **American Sign Language (ASL)**, like "Hello," "Sorry," and "Nice to meet you." Recording tens of thousands of iterations of such gestures by our webcam (recording them from diverse angles and lighting conditions), we ensure that our data is diversely represented.
+While building our **Basic Sign Language Translator**, we captured pictures of hand-related gestures depicting everyday phrases in **American Sign Language (ASL)**, like "Hello," "Sorry," and "sorry." Recording tens of thousands of iterations of such gestures by our webcam (recording them from diverse angles and lighting conditions), we ensure that our data is diversely represented.
 
 ### Effect of Diversified Data
 This diversity of the data set - hand movements, lighting, and backgrounds-it carried with it added the power of the model in terms of accuracy and its robustness for real-time performance. It helped generalize well cross-cutting over different users and environments.
